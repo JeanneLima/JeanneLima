@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Opa, tudo bem?! 👋</h2>
+## Opa, tudo bem?! 👋
 ### Meu nome é Jeanne Lima, eu tenho 22 anos e atuo com ❤️ nas áreas de Desenvolvimento Front-end e UX/UI Design.</h1>
 <hr>
 ##### 📅 Última atualização em: 19 de junho de 2020 | @JeanneLima
