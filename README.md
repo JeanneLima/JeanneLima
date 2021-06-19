@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Opa, tudo bem?! 👋
 ### Meu nome é Jeanne Lima, eu tenho 22 anos e atuo com ❤️ nas áreas de Desenvolvimento Front-end e UX/UI Design.
-##### 📅 Última atualização em: 19 de junho de 2020 | @JeanneLima
+##### 📅 Última atualização em: 19 de junho de 2021 | @JeanneLima
 
 
 #### No momento...
@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 - 💅 Fui Designer e Desenvolvedora de: [Surveillance - Painel COVID 19](https://www.youtube.com/watch?v=Db1u-3RShmI), [Site Institucional - CNA (4 unidades)](https://cnatijucasaenspena.com.br/), [epimedsolutions.com](https://www.epimedsolutions.com/), [Dashboard - Indicadores de UTI Adulto](https://www.youtube.com/watch?v=ZriRPYV-az4), etc…
 - 🌱 Aprendendo mais sobre: **Segurança de Aplicações WEB**, **Design System**,...
 - 💬 Converse comigo sobre: **Desenvolvimento**, **Arquitetura Front-end**, **React.js**, **Javascript**, **UX/UI Design**, **Design Gráfico**, **Design Thinking**, ...
-- 📫 Como me encontrar: [![Linkedin Badge](https://www.linkedin.com/in/jeannecslima/), [![Behance Badge](https://www.behance.net/jeannelimac442/)
+- 📫 Como me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeannecslima/), [!Behance Badge(https://img.shields.io/badge/-Behance-blue)](https://www.behance.net/jeannelimac442/)
 - 💎 Curiosidade: Tenho um lado Geek e adoro usar meias com estampas divertidas
 
