@@ -17,22 +17,6 @@ Here are some ideas to get you started:
 ### Meu nome é Jeanne Lima, eu tenho 23 anos e atuo com ❤️ nas áreas de Desenvolvimento Front-end e UX/UI Design.
 ##### 📅 Última atualização em: 19 de dezembro de 2021 | @JeanneLima
 
-
-#### No momento...
-
-- 💻 Estou desenvolvendo um e-commerce com Next.js, .NET Core e SQLite;
-- 💪 Gerenciando uma equipe de Front-end numa empresa de Health Tech;
-- 💅 Arquitetando e desenvolvendo um Design System;
-- 📚 Estudando :D
-
-#### BIO
-- 🏢 Atualmente trabalho como Engenheira de Software Front-end na **Epimed Solutions (Brasil)**
-- ⚙️ Minha stack envolve: `.jsx`, `.tsx`, `.js`, `.ts`, `.html`, `.cshtml`, `.css`, `.scss`, `.fig`, `.svg`, `.psd`, `.ai`,...
-- 💅 Fui Designer e Desenvolvedora de: [Surveillance - Painel COVID 19](https://www.youtube.com/watch?v=Db1u-3RShmI), [Site Institucional - CNA (4 unidades)](https://www.behance.net/gallery/121869253/Site-Institucional-CNA-2020), [Site Institucional - Epimed Solutions](https://www.epimedsolutions.com/), [Dashboard - Indicadores de UTI Adulto](https://www.youtube.com/watch?v=ZriRPYV-az4), etc…
-- 🌱 Aprendendo mais sobre: **Desenvolvimento Back-end**, **Docker**,...
-- 💬 Converse comigo sobre: **Desenvolvimento**, **Arquitetura Front-end**, **React.js**, **Javascript**, **UX/UI Design**, **Design Gráfico**, **Design Thinking**, ...
-- 💎 Curiosidade: Tenho um lado Geek e adoro usar meias com estampas divertidas
-
 <!--
 Dashboards personalizados
 -->
@@ -62,4 +46,20 @@ Dashboards personalizados
 </div>
 
 
+#### No momento...
+
+- 💻 Estou desenvolvendo um e-commerce com Next.js, .NET Core e SQLite;
+- 💪 Gerenciando uma equipe de Front-end numa empresa de Health Tech;
+- 💅 Arquitetando e desenvolvendo um Design System;
+- 📚 Estudando :D
+
+#### BIO
+- 🏢 Atualmente trabalho como Engenheira de Software Front-end na **Epimed Solutions (Brasil)**
+- ⚙️ Minha stack envolve: `.jsx`, `.tsx`, `.js`, `.ts`, `.html`, `.cshtml`, `.css`, `.scss`, `.fig`, `.svg`, `.psd`, `.ai`,...
+- 💅 Fui Designer e Desenvolvedora de: [Surveillance - Painel COVID 19](https://www.youtube.com/watch?v=Db1u-3RShmI), [Site Institucional - CNA (4 unidades)](https://www.behance.net/gallery/121869253/Site-Institucional-CNA-2020), [Site Institucional - Epimed Solutions](https://www.epimedsolutions.com/), [Dashboard - Indicadores de UTI Adulto](https://www.youtube.com/watch?v=ZriRPYV-az4), etc…
+- 🌱 Aprendendo mais sobre: **Desenvolvimento Back-end**, **Docker**,...
+- 💬 Converse comigo sobre: **Desenvolvimento**, **Arquitetura Front-end**, **React.js**, **Javascript**, **UX/UI Design**, **Design Gráfico**, **Design Thinking**, ...
+- 💎 Curiosidade: Tenho um lado Geek e adoro usar meias com estampas divertidas
+
+<!-- Animação dos commits -->
 ![Snake animation](https://github.com/JeanneLima/JeanneLima/blob/output/github-contribution-grid-snake.svg)
