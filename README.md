@@ -50,7 +50,7 @@ Dashboards personalizados
   <img align="center" alt="JeanneLima-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JeanneLima-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="JeanneLima-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="JeanneLima-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1GZ16moH6pfRvtSb9RwWvLPa5ZPdcmn1z/view?usp=sharing">
+  <!-- <img align="right" alt="JeanneLima-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1GZ16moH6pfRvtSb9RwWvLPa5ZPdcmn1z/view?usp=sharing"> -->
 </div>
   
   ##
