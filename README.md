@@ -62,4 +62,4 @@ Dashboards personalizados
 </div>
 
 
-<!-- ![Snake animation](https://github.com/JeanneLima/JeanneLima/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/JeanneLima/JeanneLima/blob/output/github-contribution-grid-snake.svg)
