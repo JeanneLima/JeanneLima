@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Opa, tudo bem?! / Hey how is everything? 👋
-### Meu nome é Jeanne Lima, eu tenho 24 anos e atuo com ❤️ nas áreas de Desenvolvimento Front-end e UX/UI Design / My name is Jeanne Lima, I'm 24 years old and I work with ❤️ in Front-end Development and UX/UI Design.
-##### 📅 Última atualização em: 23 de janeiro de 2023 / Last updated on: January 23, 2023| @JeanneLima
+## Hey how is everything? 👋
+### My name is Jeanne Lima, I'm 24 years old and I work with ❤️ in Front-end Development and UX/UI Design.
+##### 📅 Last updated on: January 23, 2023| @JeanneLima
 
 <!--
 Dashboards personalizados
@@ -46,20 +46,20 @@ Dashboards personalizados
 </div>
 
 
-#### NO MOMENTO... / RIGHT NOW...
+#### RIGHT NOW...
 
-- 💻 Estou desenvolvendo uma plataforma para otimizar a criação de relatórios gráficos / I'm developing a platform to optimize the creation of graphical reports;
-- 💪 Gerenciando uma equipe de Front-end numa empresa de Health Tech / I'm managing a Front-end team at a Health Tech company;
-- 💅 Arquitetando e desenvolvendo um Design System / I'm Architecting and Developing a Design System;
-- 📚 Estudando / I am studying :D.
+- 💻 I'm developing a platform to optimize the creation of graphical reports;
+- 💪 I'm managing a Front-end team at a Health Tech company;
+- 💅 I'm Architecting and Developing a Design System;
+- 📚 I am studying :D.
 
-#### BIO / ABOUT ME
-- 🏢 Atualmente trabalho como Tech Lead de Front-end na **Epimed Solutions (Brasil)** / I’m currently working as a Front-end Tech Lead at **Epimed Solutions (Brazil)**;
-- ⚙️ Minha stack envolve / My Development stack involves: `.jsx`, `.tsx`, `.js`, `.ts`, `.html`, `.cshtml`, `.hbs`, `.css`, `.scss`, `.fig`, `.svg`, `.psd`, `.ai`,...;
-- 💅 Fui Designer e Desenvolvedora de / I was the Designer and Developer of: [Surveillance - Painel COVID 19](https://www.youtube.com/watch?v=Db1u-3RShmI), [Site Institucional - CNA (4 unidades)](https://www.behance.net/gallery/121869253/Site-Institucional-CNA-2020), [Site Institucional - Epimed Solutions](https://www.epimedsolutions.com/), [Dashboard - Indicadores de UTI Adulto](https://www.youtube.com/watch?v=ZriRPYV-az4),...;
-- 🌱 Aprendendo mais sobre / I'm learning more about: **Desenvolvimento Back-end**, **Mobile**, "Otimizações Web**, **Liderança**, **Cloud**, **Arquitetura de Software**,...;
-- 💬 Converse comigo sobre / Ask me about: **Desenvolvimento Back-end / Back-in Development**, **Arquitetura de Software / Software Architecture**, **React.js**, **Javascript**, **UX/UI Design**, **Design Thinking**, ...;
-- 💎 Curiosidade / Fun fact: Tenho um lado Geek e adoro usar meias com estampas divertidas / I have a Geek side and I love wearing socks with fun prints.
+#### ABOUT ME
+- 🏢 I’m currently working as a Front-end Tech Lead at **Epimed Solutions (Brazil)**;
+- ⚙️ My Development stack involves: `.jsx`, `.tsx`, `.js`, `.ts`, `.html`, `.cshtml`, `.hbs`, `.css`, `.scss`, `.fig`, `.svg`, `.psd`, `.ai`,...;
+- 💅 I was the Designer and Developer of: [Surveillance - Painel COVID 19](https://www.youtube.com/watch?v=Db1u-3RShmI), [Site Institucional - CNA (4 unidades)](https://www.behance.net/gallery/121869253/Site-Institucional-CNA-2020), [Site Institucional - Epimed Solutions](https://www.epimedsolutions.com/), [Dashboard - Indicadores de UTI Adulto](https://www.youtube.com/watch?v=ZriRPYV-az4),...;
+- 🌱 I'm learning more about: **Back-end Development**, **Mobile**, "Web Optimizations**, **Leadership**, **Cloud Computing**, **Software Architecture**,...;
+- 💬 Ask me about: **Front-end Development**, **React.js**, **CSS Architecture**, **Gitflow**, **UX/UI Design**, **Design Thinking**, ...;
+- 💎 Fun fact: I have a Geek side and I love wearing socks with fun prints.
 
 <!-- Animação dos commits -->
 ![Snake animation](https://github.com/JeanneLima/JeanneLima/blob/output/github-contribution-grid-snake.svg)
