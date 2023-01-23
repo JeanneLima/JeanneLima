@@ -59,7 +59,7 @@ Dashboards personalizados
 - 🏢 I’m currently working as a Front-end Tech Lead at **Epimed Solutions (Brazil)**;
 - ⚙️ My Development stack involves: `.jsx`, `.tsx`, `.js`, `.ts`, `.html`, `.cshtml`, `.hbs`, `.css`, `.scss`, `.fig`, `.svg`, `.psd`, `.ai`,...;
 - 🔨 I worked on the Front-end Design and Development of: [Surveillance - Painel COVID 19](https://www.youtube.com/watch?v=Db1u-3RShmI), [Site Institucional - CNA (4 unidades)](https://www.behance.net/gallery/121869253/Site-Institucional-CNA-2020), [Site Institucional - Epimed Solutions](https://www.epimedsolutions.com/), [Dashboard - Indicadores de UTI Adulto](https://www.youtube.com/watch?v=ZriRPYV-az4),...;
-- 🌱 I'm learning more about: **Back-end Development**, **Mobile**, **"Web Optimizations**, **Leadership**, **Cloud Computing**, **Software Architecture**,...;
+- 🌱 I'm learning more about: **Back-end Development**, **Mobile**, **Web Optimizations**, **Leadership**, **Cloud Computing**, **Software Architecture**,...;
 - 💬 Ask me about: **Front-end Development**, **React.js**, **CSS Architecture**, **Gitflow**, **UX/UI Design**, **Design Thinking**, **Agile**,...;
 - 💎 Fun fact: I have a Geek side and I love wearing socks with fun prints.
  
