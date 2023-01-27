@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hey how is everything? 👋
 ### My name is Jeanne Lima, I'm 24 years old and I work with ❤️ in Front-end Development and UX/UI Design.
-##### 📅 Last updated on: January 23, 2023| @JeanneLima
+##### 📅 Last updated on: January 23, 2023 | @JeanneLima
 
 <!--
 Dashboards personalizados
