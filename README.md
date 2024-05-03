@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ## Hey how is everything? 👋
-### My name is Jeanne Lima, I'm 24 years old and I work with ❤️ in Front-end Development and UX/UI Design.
-##### 📅 Last updated on: January 23, 2023 | @JeanneLima
+### My name is Jeanne Lima, I'm 25 years old and I work with ❤️ in Software Development and UX/UI Design.
+##### 📅 Last updated on: May 03, 2024 | @JeanneLima
 
 <!--
 Dashboards personalizados
@@ -24,7 +24,7 @@ Dashboards personalizados
 <div align="center">
   <a href="https://github.com/JeanneLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanneLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanneLima&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanneLima&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="JeanneLima-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,6 +33,7 @@ Dashboards personalizados
   <img align="center" alt="JeanneLima-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JeanneLima-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JeanneLima-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="JeanneLima-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JeanneLima-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <!-- <img align="right" alt="JeanneLima-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1GZ16moH6pfRvtSb9RwWvLPa5ZPdcmn1z/view?usp=sharing"> -->
 </div>
@@ -48,19 +49,18 @@ Dashboards personalizados
 
 #### RIGHT NOW...
 
-- 💻 I'm developing a platform to optimize the creation of graphical reports;
-- 💪 I'm managing a Front-end team at a Health Tech company;
-- 💅 I'm Architecting and Developing a Design System;
-- 📚 I am studying :D.
+- 💪I'm the technical reference for Front-end Development and UX/UI Design in an innovation team;
+- 💻 I am designing and developing an educational platform and an interactive map with real-time data for the areas of sustainability and maritime resources;
+- 📚 I'm studying :D.
 
 #### ABOUT ME
 - 😄 Pronouns: She / Her
 - 🎓 MBA in Software Architecture and Solutions | Graduation in Graphic Design | Multimedia technical course
-- 🏢 I’m currently working as a Front-end Tech Lead at **Epimed Solutions (Brazil)**;
-- ⚙️ My Development stack involves: `.jsx`, `.tsx`, `.js`, `.ts`, `.html`, `.cshtml`, `.hbs`, `.css`, `.scss`, `.fig`, `.svg`, `.psd`, `.ai`,...;
+- 🏢 I’m currently working as Senior Front-end Developer at **OceanPact Serviços Marítimos (Brazil)**;
+- ⚙️ My Development stack involves: `.jsx`, `.tsx`, `.js`, `.ts`, `.html`, `.cshtml`, `.hbs`, `.css`, `.scss`, `.py`, `.fig`, `.svg`, `.psd`, `.ai`,...;
 - 🔨 I worked on the Front-end Design and Development of: [Surveillance - Painel COVID 19](https://www.youtube.com/watch?v=Db1u-3RShmI), [Site Institucional - CNA (4 unidades)](https://www.behance.net/gallery/121869253/Site-Institucional-CNA-2020), [Site Institucional - Epimed Solutions](https://www.epimedsolutions.com/), [Dashboard - Indicadores de UTI Adulto](https://www.youtube.com/watch?v=ZriRPYV-az4),...;
-- 🌱 I'm learning more about: **Back-end Development**, **Mobile**, **Web Optimizations**, **Leadership**, **Cloud Computing**, **Software Architecture**,...;
-- 💬 Ask me about: **Front-end Development**, **React.js**, **CSS Architecture**, **Gitflow**, **UX/UI Design**, **Design Thinking**, **Agile**,...;
+- 🌱 I'm learning more about: **Back-end Development**, **Containers**, **Cloud Computing**, **Software Architecture**,...;
+- 💬 Ask me about: **React.js**, **Typescript**, **CSS Architecture**, **Gitflow**, **UX/UI Design**, **Design Thinking**, **Agile**,...;
 - 💎 Fun fact: I have a Geek side and I love wearing socks with fun prints.
  
 <!-- Animação dos commits -->
