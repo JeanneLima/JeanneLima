@@ -4,10 +4,10 @@
 
 ![OceanPact](https://badgen.net/badge/%F0%9F%92%BC%20Working%20at/OceanPact/004765)
 
-![Graphic Design Technology - UVA](https://badgen.net/badge/%F0%9F%8E%93%20UVA/Graphic%20Design%20Technology/E60073)
-![Software Architecture - XP Educação](https://badgen.net/badge/%F0%9F%8E%93%20XP%20Educa%C3%A7%C3%A3o/(MBA)%20Software%20Architecture/45A937)
-![Innovation Driven by Artificial Intelligence and User Experience - Unifast](https://badgen.net/badge/%F0%9F%8E%93%20Unifast/(MBA)%20Innovation%20Driven%20by%20Artificial%20Intelligence%20and%20User%20Experience/D0AF6A)
-![Computer Science - Estácio](https://badgen.net/badge/%F0%9F%8E%93%20Est%C3%A1cio/Computer%20Science/46C8C8)
+![Graphic Design Technology - UVA](https://badgen.net/badge/%F0%9F%8E%93%20UVA/Graphic%20Design%20Technology/7185D0)
+![Software Architecture - XP Educação](https://badgen.net/badge/%F0%9F%8E%93%20XP%20Educa%C3%A7%C3%A3o/(MBA)%20Software%20Architecture/7185D0)
+![Innovation Driven by Artificial Intelligence and User Experience - Unifast](https://badgen.net/badge/%F0%9F%8E%93%20Unifast/(MBA)%20Innovation%20Driven%20by%20Artificial%20Intelligence%20and%20User%20Experience/7185D0)
+![Computer Science - Estácio](https://badgen.net/badge/%F0%9F%8E%93%20Est%C3%A1cio/Computer%20Science/7185D0)
 
 ---
 
