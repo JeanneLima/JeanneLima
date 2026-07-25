@@ -36,10 +36,12 @@
 ### Projects 🖥️
 
 - **Professional Projects**
-  - (Front-end) *[Surveillance – COVID-19 Dashboard](https://www.youtube.com/watch?v=Db1u-3RShmI)*
-  - (Front-end) *[Dashboard – Adult ICU Indicators](https://www.youtube.com/watch?v=ZriRPYV-az4)*
-  - (Front-end) *[Corporate Website – CNA](https://www.behance.net/gallery/121869253/Site-Institucional-CNA-2020)*
-  - (Front-end) *[Corporate Website – Epimed Solutions](https://www.epimedsolutions.com/)*
+  - **Front-end**
+    - *[Surveillance – COVID-19 Dashboard](https://www.youtube.com/watch?v=Db1u-3RShmI)*
+    - *[Dashboard – Adult ICU Indicators](https://www.youtube.com/watch?v=ZriRPYV-az4)*
+    - *[Corporate Website – CNA](https://www.behance.net/gallery/121869253/Site-Institucional-CNA-2020)*
+    - *[Corporate Website – Epimed Solutions](https://www.epimedsolutions.com/)*
 
 - **Personal Projects**
-  - (UX/UI Design and Front-end) *[Website - WCA Ranking](https://ranking.leinadium.dev/)*: A regional WCA ranking for Brazil (Rubik's Cube competitions)
+  - **UX/UI Design and Front-end**
+    - *[Website - WCA Ranking](https://ranking.leinadium.dev/)*: A regional WCA ranking for Brazil (Rubik's Cube competitions)
