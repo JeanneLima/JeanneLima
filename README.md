@@ -13,7 +13,7 @@
 
 ### Experience in
 
-![Javascript](https://img.shields.io/badge/-JS-6172B1?logo=javascript)
+![Javascript](https://img.shields.io/badge/-Javascript-6172B1?logo=javascript)
 ![Typescript](https://img.shields.io/badge/TypeScript-6172B1?logo=typescript&logoColor=whitet)
 ![PHP](https://img.shields.io/badge/php-6172B1?logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/-React-6172B1?logo=react)
