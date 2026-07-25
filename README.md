@@ -37,10 +37,11 @@
 
 - **Professional Projects**
   - **Front-end**
-    - *[Surveillance – COVID-19 Dashboard](https://www.youtube.com/watch?v=Db1u-3RShmI)*
-    - *[Dashboard – Adult ICU Indicators](https://www.youtube.com/watch?v=ZriRPYV-az4)*
-    - *[Corporate Website – CNA](https://www.behance.net/gallery/121869253/Site-Institucional-CNA-2020)*
-    - *[Corporate Website – Epimed Solutions](https://www.epimedsolutions.com/)*
+    - *[Surveillance – COVID-19 Dashboard](https://www.youtube.com/watch?v=Db1u-3RShmI)*: Dashboard with manually entered COVID-19 data, using a platform employed by hospitals in Brazil and around the world
+    - *[Dashboard – Adult ICU Indicators](https://www.youtube.com/watch?v=ZriRPYV-az4)*: Dashboard with conditional filters to enable the visualization of healthcare data based on approximately 80 graphical and visual indicators
+    - *[Corporate Website – CNA](https://www.behance.net/gallery/121869253/Site-Institucional-CNA-2020)*: Corporate marketing website for the CNA language school
+    - *[Corporate Website – Epimed Solutions](https://www.epimedsolutions.com/)*: Corporate website focused on marketing for a health and technology company
+    - *[Backstage](https://www.epimedsolutions.com/)*: Digital platform for event management, accreditation, and access control
 
 - **Personal Projects**
   - **UX/UI Design and Front-end**
